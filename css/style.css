@@ -1,0 +1,58 @@
+*  {
+	font-family: "Didot", Playfair Display, Lora;
+	font-weight: 1.7em;
+	color: white;
+	
+
+}
+div{
+	background-color: #264d7e;
+	width: 300px;
+	padding: 5px;
+	border: 1px;
+	margin: 5px;
+
+}	
+h1{
+	padding: 5px;
+	
+
+}
+/*.aboutUs, .business,.services , .careers, .service, .contact,.footer-toggle, .any,.Twitter,.Facebook,.about-us-list,.business-article
+,.career{
+	list-style: none;
+	color: white;
+	padding-left: 15px;
+	
+*/
+
+}
+
+a:link {
+	text-decoration: none;
+	color: white;
+}
+ /*.logo-image,  .business, .aboutUs{
+	border: 1px solid red;
+	width: 300px;
+	display: inline-flex;
+	padding: 0;
+	margin: none;
+}
+body{ 
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+	outline: none;
+	border: none;
+}
+/*.logo-image {
+	border: 1px solid green;
+	width: 50px;
+	height: 60px;
+}
+.main_menu_toggle {
+	background-color: lightgrey;
+	border-color: yellow;
+	
+}*/
